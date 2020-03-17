@@ -1,0 +1,53 @@
+body{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: url("pokemon.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    border: 2px solid black;
+    text-align: center;
+}
+
+h2{
+    color: #A9A9A9;
+    font-size: 1.5em;
+    text-align:center;
+    text-decoration: underline;
+
+}
+
+
+td {
+    text-align: center;
+}
+
+table{
+    margin-left: 15%;
+    font-size: 1.5em;
+}
+
+a{
+    color: red;
+}
+
+.white{
+    color:white;
+}
+
+.green{
+    color:green;
+}
+
+.red{
+    color:red;
+}
+
+.blue{
+    color:blue;
+}
